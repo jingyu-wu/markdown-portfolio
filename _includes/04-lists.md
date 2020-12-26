@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Rainy days :zap:
+* Good coffee and quiet company :coffee:
+* New economics journal releases :sparkle:
